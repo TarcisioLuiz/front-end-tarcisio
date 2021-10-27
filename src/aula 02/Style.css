@@ -1,0 +1,32 @@
+
+h1,
+h2,
+h3,
+label{
+    color: red ;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#manchete{
+    color: blue;
+    font-size: 50px;
+}
+
+h1.titulo{
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+button{
+    background-color: rgb(100, 200, 300);
+    color: #fff;
+    padding: 15px;
+    border: none;
+    border-radius: 3px;
+}
+
+button:hover{
+    background-color: black;
+    font-size: 18px;
+}
